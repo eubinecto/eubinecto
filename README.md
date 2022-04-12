@@ -12,7 +12,7 @@ projects | 🗓 | *do more with fewer weights*? |
 [The `Wisdomify`  Project](https://github.com/wisdomify/wisdomify) | 2021~now | ... |
  
  
-# 🐤 How am I assisting teaching & learing languages? 
+# 🐤 How am I assisting teaching & learning languages? 
 
 projects | 🗓 | *the right way*? |
 --- | --- | --- |
