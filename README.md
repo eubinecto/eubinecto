@@ -6,17 +6,17 @@ I aim to kill two birds with human-inspired language models|
 
 # 🐤 How am I doing more with fewer weights? 
 
-projects | 🗓 | *do more with fewer weights*? - hypothesis | *do more with fewer weights*? - results |
---- | --- | --- | --- | 
-The `Idiombeddings` Project (Work in Progress) | 2022~now | ... | ... |
-The `Wisdomify` Project | 2021~now | ... | ... |
+projects | 🗓 | *do more with fewer weights*? |
+--- | --- | --- | 
+[The `Idiombeddings` Project (Work in Progress)](https://github.com/eubinecto/idiombeddings) | 2022~now | ... |
+[The `Wisdomify`  Project](https://github.com/wisdomify/wisdomify) | 2021~now | ... |
  
  
 # 🐤 How am I assisting teaching & learing languages? 
 
-projects | 🗓 | *the right way*? - hypothesis | *the right way*? - results | 
---- | --- | --- | --- |
-The `Idiomify` Project (Bsc in AI) | 2022~now  | feedback-on-style could facilitate acquisition of the meaning | ... | 
-The `Idiomify` Project (Msc in Applied Linguistics) | 2020~2021 | ... | ... |
-The `Korean Politeness Styler` Project | 2022~now | (to be filled) | ... |
+projects | 🗓 | *the right way*? |
+--- | --- | --- |
+[The `Korean Politeness Styler` Project](https://github.com/eubinecto/kps) | 2022~now | ... |
+[The `Idiomify` Project (Msc @UOO)](https://github.com/eubinecto/idiomify)| 2020~2021 | ... | 
+[The `Idiomify` Project (Bsc @UOM)](https://github.com/eubinecto/idiomify_deprecated)| 2022~now  | ... |
 
