@@ -12,7 +12,7 @@ The `Idiombeddings` Project (Work in Progress) | 2022~now | ... | ... |
 The `Wisdomify` Project | 2021~now | ... | ... |
  
  
-#🐤 How am I assisting teaching & learing languages? 
+# 🐤 How am I assisting teaching & learing languages? 
 
 projects | 🗓 | *the right way*? - hypothesis | *the right way*? - results | 
 --- | --- | --- | --- |
