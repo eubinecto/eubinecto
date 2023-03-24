@@ -1,5 +1,4 @@
-[![CV badge](https://img.shields.io/badge/CV-April%202022-blue)](https://drive.google.com/file/d/1Fe5Fk9ttQD-2TB-yNW_eLpg4HwoLk4II/view?usp=sharing)
-[![Portfolio badge](https://img.shields.io/badge/PORTFOLIO-April%202022-blue)](https://drive.google.com/file/d/1hZLt-WsFzuz7nGP7kFX_aP8XxwiEdSMe/view?usp=sharing)
+[![CV badge](https://img.shields.io/badge/CV-03242023-blue)](https://drive.google.com/file/d/1Fe5Fk9ttQD-2TB-yNW_eLpg4HwoLk4II/view?usp=sharing)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feubinecto&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I aim to kill 🐤🐤 with 🪨 |
